@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "546013665087",
+    "project_id": "foodmandu-a1c94",
+    "storage_bucket": "foodmandu-a1c94.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:546013665087:android:942116f3f1bb7d0a5ba58a",
+        "android_client_info": {
+          "package_name": "com.example.foodmandu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "546013665087-p2gvse5a9kln4b99ctr7a9luk4qffbv1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqIeJ7FD4V5VqZRWVySIqp17SUPbFWLi8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "546013665087-p2gvse5a9kln4b99ctr7a9luk4qffbv1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
